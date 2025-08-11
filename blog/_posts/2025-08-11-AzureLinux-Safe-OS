@@ -1,1 +1,7 @@
-
+---
+title: "Upgrade Azure Linux versions in AKS"
+description: "New OS SKU AzureLinux3 is now available for migrating to Azure Linux 3.0"
+date: 2050-08-24 # date is important. future dates will not be published
+author: Flora Taagen, Ally Ford 
+categories: general 
+---
