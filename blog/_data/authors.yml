@@ -354,3 +354,14 @@ Steve Womack:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/steve-womack-4725ba2/"
+
+Flora Taagen:
+  name        : "Flora Taagen"
+  bio         : "Product Manager at Microsoft"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/florataagen/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/flora-taagen"
