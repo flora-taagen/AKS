@@ -7,15 +7,22 @@ categories: general
 ---
 
 ## Introduction
+Introduction about OS on AKS and the importance of staying up to date on OS versions
 
 ## Challenges in Upgrading OS Versions
+Challenges in upgrading os versions (possibility of breakage and no way to downgrade k8s version aka cgroupsv2, problem of OS support ending during LTS)
 
 ## AKS Recommendations
+Use default if you want easy, no touch experience. Use versioned enums if you want control and reducing risk.
 
 ### Scenario 1: A new OS version is available and I want to test it out 
-### Scenario 2: I'm using the default OS version and during the k8s version upgrade my workload broke due to underlying OS version changes. I need to rollback my OS version. 
+
+### Scenario 2: I'm using the default OS version and during the k8s version upgrade my workload broke due to underlying OS version changes. I need to rollback my OS version.
+
 ### Scenario 3: I'm using LTS and I want and/or need to upgrade my OS version, but want to stay on my LTS k8s version.
 
 ## Considerations
+Considerations and limitations
 
 ## What's Next?
+how we are using this in future os releases for example linux guard, AzLinux 4, etc.
