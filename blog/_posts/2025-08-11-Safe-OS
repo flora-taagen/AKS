@@ -1,0 +1,21 @@
+---
+title: "Upgrade OS Versions in AKS"
+description: "New OS version enums available in AKS to increase control and reduce risk during OS version upgrades on AKS"
+date: 2025-08-29 # date is important. future dates will not be published
+author: Flora Taagen, Ally Ford 
+categories: general  
+---
+
+## Introduction
+
+## Challenges in Upgrading OS Versions
+
+## AKS Recommendations
+
+### Scenario 1: A new OS version is available and I want to test it out 
+### Scenario 2: I'm using the default OS version and during the k8s version upgrade my workload broke due to underlying OS version changes. I need to rollback my OS version. 
+### Scenario 3: I'm using LTS and I want and/or need to upgrade my OS version, but want to stay on my LTS k8s version.
+
+## Considerations
+
+## What's Next?
